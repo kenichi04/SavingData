@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidlines. -->
+    <dimen name="acrivity_horizontal_margin">16dp</dimen>
+    <dimen name="acrivity_vertical_margin">16dp</dimen>
+</resources>
